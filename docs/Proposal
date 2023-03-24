@@ -1,0 +1,28 @@
+Date planner with budget
+
+This idea is for anyone who wants to take that special person out on a date in their city/town. 
+The web app will have a user functionality to it to save previous recommended date nights and view them on the go. 
+Once logged in, users will be navigated to a form where they can put in their city that they are in, what type of budget they may have, and the times they want to be out. 
+Our app will then recommend certain things to do around the city that fall within your constraints using the yelp api. 
+The activities will then be displayed on google maps for the user to view. 
+Each time they put in their requirements the data will be randomly generated giving you different things to do each time making sure you get a fresh list of things to do. 
+A potential feature we were also considering is making it capable of taking into account the weather when it figures out what you can do in the city.  
+
+https://www.yelp.com/dataset
+https://developers.google.com/maps
+
+
+Web Scraper for News
+
+The idea is to find recent news or updates on famous people you select and email to you. 
+The app will make the users input the list of famous people they want to be notified about. 
+It will utilize the web scraper api to find the headlines or gossips about famous people and filter the ones that users might like the most.
+
+https://www.linkpreview.net/
+https://www.scraperapi.com/
+
+
+Database: MySQL
+APIs: Depends On Project
+Third party authentication: OAuth, Google
+Decoupled architecture: React frontend, Node.js + Express.js backend

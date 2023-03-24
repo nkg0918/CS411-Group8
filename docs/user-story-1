@@ -1,0 +1,9 @@
+1. If someone uses this app to make a night date plan with a limited budget, this website would generate such a plan for the user. 
+Firstly, the user uses his or her google account to log in to use functions. There is a logging page when the user uses this website first. 
+After the user logs in, a new page will be assigned to the user and the user can type his idea or requirements in a search box, 
+and then the website will process what the user types and generate a date plan based on the user’s requirement. 
+The search box consists of a city name(ex. Boston), a time period(9pm~1am), one to two preferences(ex. restaurant, park), 
+and a maximum budget($) that the user can take. 
+Then, the web returns a date plan for the user which contains recommendations for the user what he can do 
+and where to do based on the preference of the user and the location. Simultaneously, the plan calculates the total cost for the user(money, time) and 
+generates a route, an order for each step, for the user that makes the whole date more convenient.

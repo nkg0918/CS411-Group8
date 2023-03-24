@@ -1,0 +1,11 @@
+Find out what to do in free time:
+
+For someone trying to figure out what to do in free time, the user would first log in using their Google credentials. 
+The user would select the log in in the home screen and then it will navigate to the login screen. 
+Then the user would log in with their google account and will be navigated back to the home page. 
+Next, the user would navigate to the page where you could input the preferences based on the activity. 
+You would enter the input values such as location, and budget. 
+After that, the website will show a user list of recommendations that were made based on entered value. 
+The user will be able to sort a list of activities in the order of time, budget, or possibly distance to location and scroll down the list to see more results. 
+Once you find the result you want, you can click the result which will navigate you to an external website that shows detailed information about that result. 
+The result could also be marked in the history page which enables users to log in back later to the website and see what they searched for in the past without inputting the values again to find the same result.
