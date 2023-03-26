@@ -1,5 +1,11 @@
+{% load socialaccount %}
 {% block content %}
 <div>
+    <button>
+      <a href="{% provider_login_url 'google'%}?next=/">
+          Login with Google
+      </a>
+    </button>
     <form method="post" action="{% url 'common:login' %}">
         {% csrf_token %}
         {% include "form_errors.html" %}
